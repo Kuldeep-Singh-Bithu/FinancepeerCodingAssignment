@@ -1,24 +1,17 @@
-## FINANCEPEER CODING ASSIGNMENT
 
-**ZIA BASHIR B.Tech CSE**
+# FINANCEPEER CODING ASSIGNMENT
 
-WEB FRAMEWORK - FLASK  
+## Kuldeep Singh 18BCG10057
 
-DATABASE SERVICE - MySQL  
+WEB FRAMEWORK - FLASK
+
+DATABASE SERVICE - MySQL
 
 FRONTEND - Bootstrap
 
-**Installation :**
+## Installation :
 
-pip install flask-mysql  
+pip install flask-mysql
 
 python3 server.py
 
-**Link to Video**  
-
-Link to video : https://drive.google.com/file/d/1vNPBbM0zWXVK8CFp06HaaE9Vih0Z3STA/view?usp=sharing
-
-**Keynotes:**
-Json file must be present in the root directory  
-
-If video is not loading please try downloading it.
